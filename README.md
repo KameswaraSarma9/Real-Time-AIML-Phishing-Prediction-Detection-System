@@ -1,7 +1,7 @@
 
   # Real TIme AIML Phishing Detection & Prediction (Community)
 
-  This is a code bundle for Real TIme AIML Phishing Detection & Prediction (Community). The original project is available at https://www.figma.com/design/d7UoQiOhoq3XHqCuXh2F4u/Real-TIme-AIML-Phishing-Detection---Prediction--Community-.
+  This is a code bundle for Real TIme AIML Phishing Detection & Prediction (Community). The original project is available at https://aiml-phishing-detection-prevention.figma.site
 
   ## Running the code
 
